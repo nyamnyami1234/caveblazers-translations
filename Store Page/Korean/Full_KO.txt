@@ -1,25 +1,25 @@
-Caveblazers is an action focused platformer roguelike set in a fantasy world. Each game is unique with procedurally generated levels to explore and a massive amount of items, weapons and equipment to discover.
-The game takes place in a recently discovered cave, said to hold "unimaginable power". You play as an adventurer setting out to explore the cave and find out what riches it holds. However, you are not the only one...
+Caveblazers는 판타지 세계에서 즐기는 플랫폼 로그라이크 액션 게임입니다. 수많은 물품, 무기, 장비들 수집이 가능하며, 탐험할 때마다 새롭게 생성되는 레벨을 탐험할 수 있습니다.
+이 게임의 무대는 최근에 발견된 동굴로 "상상도 못 할 힘"을 지녔다는 소문의 장소입니다. 여러분은 보물을 찾아 그 동굴을 탐험하는 모험가가 됩니다. 하지만 이것뿐만이 아닙니다...
 
-As you delve deeper in to the cave, you'll discover new areas to explore, new weapons and new monsters to try them out on.
+동굴 깊숙이 있는 새로운 구역에서 탐험하며 새로운 무기를 발견해, 수집한 무기를 시험해 볼 새로운 괴물들을 만나실 수 있습니다.
 
-Smart Characters!
-Throughout your journey you will encounter AI characters. Some friendly, some hostile. We're using an advanced pathfinding system which means friendly characters will be able to follow you wherever you go, and hostile characters will be able to track you down wherever you hide. There is no escape. Be afraid!
+영리한 캐릭터!
+여정을 떠나며 여러분은 아군이고, 어쩔 땐 적군인 AI 캐릭터와 마주하게 됩니다. Some friendly, some hostile. 진보된 길 찾기 시스템을 통해 아군 캐릭터라면 여러분이 어딜 가든지 따라가고 적군 캐릭터라면 여러분이 어딜 숨든 추적합니다. 도망칠 수는 없으니 각오하시길 바랍니다! Be afraid!
 
-Platformer Roguelike!
-Caveblazers is a modern platformer which incorporates some Roguelike and RPG elements such as permanent death, randomized potion identities, an RPG-style inventory system and tons of items, equipment and upgrades!
+플랫폼 로그라이크!
+Caveblazers는 영구 사망, 무작위 물약 효과, RPG 방식 소지품 시스템과 수많은 물품, 장비, 강화 요소를 포함한 로그라이크와 RPG와 로그라이크가 결합된 현대식 플랫폼 게임입니다!
 
-Daily Challenge Runs!
-Each day a new adventure will be generated! It will be the same for everyone and you'll only get one chance at it! These challenge runs give you a starting loadout, and feature a set of different traits.
+일일 도전!
+매일 새로운 모험가로 탐험을 떠나보세요! 다들 똑같이 시작하지만 기회는 다들 오직 한 번뿐입니다! 일일 도전에서는 시작 장비가 주어지며, 날마다 각기 다른 특징을 띄게 됩니다.
 
-Epic Boss Battles!
-Between each area you'll encounter a boss. Each boss is very unique, requiring a different strategy to defeat. Bosses are generally gigantic monstrosities with life bars stretching across the entire screen. Good luck!
+대서사시로 남을 보스 전투!
+넘어가는 구간마다 보스를 조우하게 됩니다. 제각기 고유한 보스로 처치하려면 각기 다른 공략법이 필요합니다. 화면 전체를 아우르는 체력 막대를 지닌 압도적이며 괴물 같은 보스들이 여러분을 기다리고 있습니다. 부디 행운을 빕니다!
 
-Character Customization!
-A whole load of unlockable hats, tunics, trousers, robes, and more! Or perhaps you fancy stripping off and heading in to the caves in the nude? Go for it!
+캐릭터 꾸미기!
+다양한 모자, 튜닉, 바지, 로브 등을 해금할 수 있습니다! 혹시 옷을 전부 벗어 던지고 알몸으로 동굴 탐험을 하고 싶으신가요? 그것도 가능합니다!
 
-Compelling Combat!
-Largely overlooked in other modern Roguelike games, Caveblazers attempts to move away from the simplistic combat systems we've seen in other games in the genre, and incorporates fun, fluid and fast-paced combat which is accentuated by the game's brutal and persistent blood effects.
+박진감 넘치는 전투!
+Caveblazers는 다른 현대 로그라이크 게임들이 놓치고 있던 부분에 주목했습니다. 기존 로그라이크 게임들의 단조로운 전투 시스템에서 벗어나, 재미있고, 부드러우면서도 속도감 있는 전투를 구현했습니다. 여기에 잔혹하고도 끈질기게 표현되는 피 효과는 게임의 박진감을 더해줍니다.
 
-Challenges!
-In case that isn't enough content, Caveblazers features a bunch of challenges for the well seasoned players to take a punt at. These challenges reward players with new items, weapons & perks!
+도전!
+콘텐츠가 부족하다고 여기신다면 Caveblazers는 노련한 플레이어들을 위한 도전들도 준비되어 있습니다. 도전 성공 시 새로운 물품, 무기, 특전이 해금됩니다!
